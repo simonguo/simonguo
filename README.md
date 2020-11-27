@@ -1,4 +1,5 @@
-### Hi there 👋
+![simonguo's github stats](https://github-readme-stats.vercel.app/api?username=simonguo&theme=onedark)
+![simonguo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonguo&theme=onedark)
 
 <!--
 **simonguo/simonguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
